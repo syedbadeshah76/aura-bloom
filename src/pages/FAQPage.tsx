@@ -17,7 +17,7 @@ const faqCategories = [
     title: 'Returns & Exchanges',
     items: [
       { q: 'What is your return policy?', a: 'We accept returns within 30 days of delivery for unopened, sealed products in their original packaging. Personalized or engraved items cannot be returned.' },
-      { q: 'How do I initiate a return?', a: 'Contact our support team via the Contact page or WhatsApp. We'll provide a prepaid return label and process your refund within 5–7 business days of receiving the item.' },
+      { q: 'How do I initiate a return?', a: "Contact our support team via the Contact page or WhatsApp. We'll provide a prepaid return label and process your refund within 5-7 business days of receiving the item." },
       { q: 'Can I exchange a fragrance?', a: 'Yes, exchanges are available for unopened products. If you'd like to explore a different scent, we recommend visiting our boutique for a complimentary consultation.' },
     ],
   },
