@@ -9,7 +9,7 @@ const faqCategories = [
     items: [
       { q: 'How long does shipping take?', a: 'Standard shipping takes 3–5 business days within France and 5–10 business days for international orders. Express shipping is available at checkout for next-day delivery within select cities.' },
       { q: 'Do you offer free shipping?', a: 'Yes, we offer complimentary shipping on all orders over €150. Orders below this threshold incur a flat €9.90 shipping fee.' },
-      { q: 'Can I track my order?', a: 'Absolutely. Once your order is dispatched, you'll receive a tracking number via email. You can also view your order status in your Account dashboard.' },
+      { q: 'Can I track my order?', a: "Absolutely. Once your order is dispatched, you'll receive a tracking number via email. You can also view your order status in your Account dashboard." },
       { q: 'Do you ship internationally?', a: 'Yes, we ship to over 60 countries worldwide. Customs duties and import taxes may apply and are the responsibility of the recipient.' },
     ],
   },
