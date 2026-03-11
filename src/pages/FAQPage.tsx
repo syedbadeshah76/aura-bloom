@@ -25,7 +25,7 @@ const faqCategories = [
     title: 'Products & Fragrances',
     items: [
       { q: 'Are your fragrances cruelty-free?', a: 'Yes, all Maison Sombre fragrances are cruelty-free and never tested on animals. We are committed to ethical sourcing and sustainable production.' },
-      { q: 'How long do your perfumes last?', a: 'Our Eau de Parfum compositions typically last 8–12 hours on skin. Longevity varies based on skin type, climate, and application method.' },
+      { q: 'How long do your perfumes last?', a: 'Our Eau de Parfum compositions typically last 8-12 hours on skin. Longevity varies based on skin type, climate, and application method.' },
       { q: 'What's the difference between EDT and EDP?', a: 'Eau de Toilette (EDT) contains 5–15% fragrance concentration for a lighter experience. Eau de Parfum (EDP) contains 15–20% for richer, longer-lasting projection.' },
       { q: 'Do you offer fragrance samples?', a: 'Yes, we offer a curated discovery set of 5 samples for €25, which is credited toward your first full-size purchase.' },
     ],
